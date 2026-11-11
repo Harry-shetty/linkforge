@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Django
+db.sqlite3
+staticfiles/
+
+# Node
+node_modules/
+dist/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
